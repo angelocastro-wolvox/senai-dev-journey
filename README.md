@@ -34,8 +34,8 @@ Sou **Mestre em Bioquímica pela UFBA** e atualmente estou em transição de car
 ---
 
 ## Ferramentas Utilizadas
-* **Interpretadores de Portugol:** (Portugol Studio)
-* **Linguagem de Programação:** [Inserir aqui se estiverem usando Java, C ou Python]
+* **Interpretadores de Portugol:** Portugol Studio
+* **Linguagem de Programação:** Python
 * **Git & GitHub:** Para controle de versão e portfólio.
 
 ---
